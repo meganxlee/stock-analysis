@@ -17,7 +17,10 @@ Conversely, for the 2018 stock performance, only two companies' stocks, ENPH and
 ### Analysis of Execution Times of Original Script and Refactored Script
 Surprisingly, the original AllStockAnalysis macro we created during the module for both years, 2017 and 2018, were still run fairly quickly at 0.7265625 seconds and 0.71875 seconds, respectively.
 
-However, refactoring this macro resulted in an exponentially quicker run time of 0.140625 seconds for 2017 data ![VBA_Challenge_2017](VBA_Challenge_2017.png) and 0.1484375 seconds for 2018 data ![VBA_Challenge_2018](VBA_Challenge_2018.png). While they both produce the same results, it is optimal to refactor code, if possible, to increase efficiency.
+However, refactoring this macro resulted in an exponentially quicker run time of 0.140625 seconds for 2017 data and 0.1484375 seconds for 2018 data. While they both produce the same results, it is optimal to refactor code, if possible, to increase efficiency.
+
+![VBA_Challenge_2017](VBA_Challenge_2017.png)
+![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
 ## Summary
 
