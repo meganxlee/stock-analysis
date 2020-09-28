@@ -34,4 +34,5 @@ Disadvantages
 2. Can take longer to construct a refactored code.
 
 **How do these pros and cons apply to refactoring the original VBA script?**
+
 I definitely experienced a mix of the pros and cons listed above during this project. As expected, refactoring created efficiency by lessening the time it took to run both years' analyses. In addition, I also experienced multiple rounds of debugging as the code became more complex.
